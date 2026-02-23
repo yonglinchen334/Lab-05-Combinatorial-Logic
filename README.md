@@ -16,9 +16,9 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 ## Name: YongLin Chen & Troy Williams
 
 ## Lab Summary
+In Lab 5, we wrote the source files from scratch (provided with minimal source code). Using the truth table to implement the function for circuit a and b were straightforward. After setting up the KMaps using values from the truth table, the functions were easy to find. In the top.v file, we connected the swtiches to the inputs and the leds to the outputs for circuit a and b. The only thing that was a bit confusing was setting up the wiring properly. Once we got it, it was smooth sailing from there. 
 
 ## Lab Questions
-In Lab 5, we wrote the source files from scratch (provided with minimal source code). Using the truth table to implement the function for circuit a and b were straightforward. After setting up the KMaps using values from the truth table, the functions were easy to find. In the top.v file, we connected the swtiches to the inputs and the leds to the outputs for circuit a and b. The only thing that was a bit confusing was setting up the wiring properly. Once we got it, it was smooth sailing from there. 
 
 ### 1 - Explain the role of the Top Level file.
 
